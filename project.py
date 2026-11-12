@@ -164,7 +164,3 @@
 #     read_file()
 # if choice == 7:
 #     update_file()
-
-# this is a change done by Tanush
-a:dict = {}
-print(type(a))
